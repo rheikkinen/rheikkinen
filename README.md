@@ -12,5 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align=center>Hello, I'm Rasmus!</h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rheikkinen&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+⏳ I'm currently working on [Full Stack Open Course](https://fullstackopen.com/en/)
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rheikkinen&theme=transparent&layout=compact"/>
+
+
+  
+
+
